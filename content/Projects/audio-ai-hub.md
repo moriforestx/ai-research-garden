@@ -5,7 +5,8 @@ score: "8"
 date_collected: "2026-07-10"
 source_url: "https://github.com/BinWang28/audio-ai-hub"
 tags:
-  - ai/project
+  - ai
+  - project
 ---
 
 # audio-ai-hub

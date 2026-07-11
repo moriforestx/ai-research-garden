@@ -7,7 +7,8 @@ date_collected: "2026-07-11"
 published_date: "2026-03"
 source_url: "https://github.com/roboflow/rf-detr"
 tags:
-  - ai/paper
+  - ai
+  - paper
 ---
 
 # RF-DETR: Neural Architecture Search for Real-Time Detection Transformers

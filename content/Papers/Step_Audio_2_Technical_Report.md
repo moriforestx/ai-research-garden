@@ -7,7 +7,8 @@ date_collected: "2026-07-11"
 published_date: "2025-07"
 source_url: "https://arxiv.org/html/2507.16632v1"
 tags:
-  - ai/paper
+  - ai
+  - paper
   - audio
   - speech-recognition
   - multimodal-llm

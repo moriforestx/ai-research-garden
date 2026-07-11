@@ -20,3 +20,4 @@ Thumbs.db
 credentials.json
 secrets.json
 .log
+*.bak

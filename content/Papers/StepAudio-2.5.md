@@ -7,7 +7,8 @@ date_collected: "2026-07-11"
 published_date: "2026-05"
 source_url: "https://arxiv.org/html/2605.23463v1"
 tags:
-  - ai/paper
+  - ai
+  - paper
 ---
 
 # StepAudio 2.5 Technical Report: Unified Audio-Language Foundation Model

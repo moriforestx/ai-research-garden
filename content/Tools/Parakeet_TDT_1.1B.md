@@ -5,7 +5,8 @@ score: "9"
 date_collected: "2026-07-10"
 source_url: "https://www.codesota.com/speech"
 tags:
-  - ai/tool
+  - ai
+  - tool
 ---
 
 # Parakeet TDT 1.1B

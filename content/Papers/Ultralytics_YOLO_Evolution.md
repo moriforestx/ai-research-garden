@@ -7,7 +7,8 @@ date_collected: "2026-07-11"
 published_date: "2025-10"
 source_url: "https://arxiv.org/html/2510.09653v3"
 tags:
-  - ai/paper
+  - ai
+  - paper
 ---
 
 # Ultralytics YOLO Evolution: An Overview of YOLO26, YOLO11, YOLOv8, and YOLOv5

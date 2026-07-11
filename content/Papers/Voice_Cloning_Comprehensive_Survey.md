@@ -7,7 +7,8 @@ date_collected: "2026-07-11"
 published_date: "2025-05"
 source_url: "https://arxiv.org/html/2505.00579v1"
 tags:
-  - ai/paper
+  - ai
+  - paper
   - audio
   - voice-cloning
   - tts

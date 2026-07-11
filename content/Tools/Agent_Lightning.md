@@ -1,11 +1,12 @@
 ---
 type: tool
-name: "Agent Lightning"
+name: Agent Lightning
 score: "4"
-date_collected: "2026-07-11"
-source_url: "https://github.com/microsoft/agent-lightning"
+date_collected: 2026-07-11
+source_url: https://github.com/microsoft/agent-lightning
 tags:
-  - ai/tool
+  - ai
+  - tool
   - ai-agents
   - reinforcement-learning
   - training

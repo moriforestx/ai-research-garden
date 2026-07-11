@@ -7,7 +7,8 @@ date_collected: "2026-07-10"
 published_date: "2026-02-14"
 source_url: "https://arxiv.org/html/2502.14644v4"
 tags:
-  - ai/paper
+  - ai
+  - paper
 ---
 
 # LIFT: Long Input Fine-Tuning for Long-Context Understanding

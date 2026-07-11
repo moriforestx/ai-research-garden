@@ -7,7 +7,8 @@ date_collected: "2026-07-10"
 published_date: "2026-07-01"
 source_url: "https://blog.jetbrains.com/pycharm/2026/07/best-object-detection-models-for-machine-learning-in-2026"
 tags:
-  - ai/paper
+  - ai
+  - paper
 ---
 
 # Best Object Detection Models for Machine Learning in 2026

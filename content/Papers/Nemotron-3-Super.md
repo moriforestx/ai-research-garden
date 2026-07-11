@@ -7,7 +7,8 @@ date_collected: "2026-07-11"
 published_date: "2026-04"
 source_url: "https://arxiv.org/abs/2604.12374"
 tags:
-  - ai/paper
+  - ai
+  - paper
 ---
 
 # Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning

@@ -7,7 +7,8 @@ date_collected: "2026-07-11"
 published_date: "2025-11"
 source_url: "https://arxiv.org/pdf/2511.18487"
 tags:
-  - ai/paper
+  - ai
+  - paper
   - audio
   - speech-generation
   - music-generation

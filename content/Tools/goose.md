@@ -5,7 +5,8 @@ score: "4"
 date_collected: "2026-07-11"
 source_url: "https://github.com/block/goose"
 tags:
-  - ai/tool
+  - ai
+  - tool
   - local-assistant
   - ai-agents
   - cli

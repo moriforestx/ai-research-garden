@@ -5,7 +5,8 @@ score: "4"
 date_collected: "2026-07-11"
 source_url: "https://github.com/HKUDS/DeepCode"
 tags:
-  - ai/tool
+  - ai
+  - tool
   - coding-agent
   - code-generation
   - software-engineering

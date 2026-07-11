@@ -5,7 +5,8 @@ score: "4"
 date_collected: "2026-07-11"
 source_url: "https://ossinsight.io/trending/ai"
 tags:
-  - ai/tool
+  - ai
+  - tool
 ---
 
 # OSS Insight AI Trends

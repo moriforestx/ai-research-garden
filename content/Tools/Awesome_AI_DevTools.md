@@ -5,7 +5,8 @@ score: "3"
 date_collected: "2026-07-11"
 source_url: "https://github.com/jamesmurdza/awesome-ai-devtools"
 tags:
-  - ai/tool
+  - ai
+  - tool
   - awesome-list
   - ide
   - coding-assistant

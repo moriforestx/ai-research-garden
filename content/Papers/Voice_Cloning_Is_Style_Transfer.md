@@ -7,7 +7,8 @@ date_collected: "2026-07-11"
 published_date: "2026-05"
 source_url: "https://arxiv.org/html/2605.16578v2"
 tags:
-  - ai/paper
+  - ai
+  - paper
   - audio
   - voice-cloning
   - style-transfer

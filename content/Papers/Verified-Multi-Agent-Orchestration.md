@@ -7,7 +7,8 @@ date_collected: "2026-07-11"
 published_date: "2026-03"
 source_url: "https://arxiv.org/abs/2603.11445"
 tags:
-  - ai/paper
+  - ai
+  - paper
 ---
 
 # Verified Multi-Agent Orchestration

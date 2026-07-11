@@ -7,7 +7,8 @@ date_collected: "2026-07-11"
 published_date: "2024-10"
 source_url: "https://arxiv.org/html/2410.05983v1"
 tags:
-  - ai/paper
+  - ai
+  - paper
   - llm
   - rag
   - long-context

@@ -5,7 +5,8 @@ score: "5"
 date_collected: "2026-07-11"
 source_url: "https://github.com/Skyvern-AI/skyvern"
 tags:
-  - ai/tool
+  - ai
+  - tool
   - web-automation
   - ai-agents
   - browser

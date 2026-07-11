@@ -5,7 +5,8 @@ score: "5"
 date_collected: "2026-07-11"
 source_url: "https://github.com/ggml-org/llama.cpp"
 tags:
-  - ai/tool
+  - ai
+  - tool
   - inference
   - local-llm
   - ggml

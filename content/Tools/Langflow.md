@@ -5,7 +5,8 @@ score: "4"
 date_collected: "2026-07-11"
 source_url: "https://github.com/langflow-ai/langflow"
 tags:
-  - ai/tool
+  - ai
+  - tool
   - low-code
   - workflow
   - rag

@@ -7,7 +7,8 @@ date_collected: "2026-07-11"
 published_date: "2025-03"
 source_url: "https://arxiv.org/html/2503.07465v1"
 tags:
-  - ai/paper
+  - ai
+  - paper
   - computer-vision
   - object-detection
   - open-vocabulary

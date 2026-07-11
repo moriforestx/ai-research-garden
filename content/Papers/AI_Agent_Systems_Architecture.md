@@ -7,7 +7,8 @@ date_collected: "2026-07-11"
 published_date: "2026-01"
 source_url: "https://arxiv.org/html/2601.01743v1"
 tags:
-  - ai/paper
+  - ai
+  - paper
   - ai-agents
   - architecture
   - multi-agent
