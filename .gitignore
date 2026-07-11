@@ -11,3 +11,12 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+content/.obsidian
+Thumbs.db
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+secrets.json
+.log
