@@ -21,13 +21,12 @@ tags:
 
 ## 最新研究
 
-- [[Daily/2026-07-11]]
+- 尚無重新驗證後的每日研究
 
 ## 精選論文
 
-- [[Papers/Best_Object_Detection_Models_2026]]
-- [[Papers/LIFT_Long_Input_Fine_Tuning]]
+- 尚無重新驗證後的精選論文
 
 ## 目前專案
 
-- [[Projects/audio-ai-hub]]
+- 尚無重新驗證後的專案
