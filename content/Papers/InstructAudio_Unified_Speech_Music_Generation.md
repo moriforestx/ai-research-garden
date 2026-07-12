@@ -41,7 +41,7 @@ InstructAudio 統一語音合成 (TTS) 與音樂生成 (TTM) 的指令控制。�
 
 首個實現自然語言指令級控制的統一語音音樂生成模型，大幅降低使用門檻，為表達式音頻生成建立新范式。
 
-## 可能影響我
+## 可能影響
 
 - Audio AI Hub 專案可評估整合 InstructAudio 作為表達式生成後端
 - Concepts/Open_Source_ASR_TTS.md 需新增統一生成模型類別

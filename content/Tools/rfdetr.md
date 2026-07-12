@@ -27,7 +27,7 @@ Roboflow 開源的即時物件偵測與分割 Python 套件，基於 RF-DETR 模
 
 首個突破 COCO 60 mAP 的即時 Transformer 偵測器，超越 YOLO 系列。開源生態完善，降低採用門檻，邊緣部署與機器人視覺應用可直接整合。
 
-## 可能影響我
+## 可能影響
 
 OpenClaw 視覺技能可整合 `rfdetr` 套件提供即時偵測能力。邊緣設備部署參考架構。
 

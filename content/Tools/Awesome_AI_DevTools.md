@@ -30,7 +30,7 @@ AI 原生 IDE 與開發工具精選列表：Cursor、Replit、Google Antigravity
 
 開發工具鏈全景圖，輔助 IDE 選型、工具鏈整合決策。
 
-## 可能影響我
+## 可能影響
 
 - IDE 選型參考：Cursor vs Theia vs Copilot
 - OpenClaw CLI 定位：在 CLI Agent 生態中的位置

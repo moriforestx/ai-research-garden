@@ -36,7 +36,7 @@ StepAudio 2.5 為統一音訊語言基礎模型，整合自動語音辨識 (ASR)
 
 音訊領域長期由專用模型主導 (Whisper ASR、VITS TTS、獨立對話系統)，StepAudio 2.5 證明統一模型可達專用系統水平，簡化部署管線、降低維護成本、啟用跨模態推理。超低幀率 tokenizer 為邊緣部署、即時應用提供關鍵技術突破。
 
-## 可能影響我
+## 可能影響
 
 OpenClaw 語音技能可評估整合 StepAudio 2.5 架構，簡化 ASR/TTS/對話三合一管線。VibeVoice tokenizer 技術可應用於自訂語音模型訓練。
 

@@ -37,7 +37,7 @@ Roboflow 推出 RF-DETR，基於 DINOv2 Vision Transformer backbone 的即時物
 
 即時物件偵測領域長期由 CNN-based YOLO 系列主導，RF-DETR 證明 Transformer 架構經 NAS 優化後可在速度與精度雙贏，重新定義即時 SOTA 基準。對邊緣部署、機器人視覺、自動駕駛感知具備直接應用價值。
 
-## 可能影響我
+## 可能影響
 
 OpenClaw 視覺相關技能可整合 `rfdetr` 套件，提供即時物件偵測能力。邊緣設備部署參考架構，為 AI Agent 賦予視覺感知能力。
 

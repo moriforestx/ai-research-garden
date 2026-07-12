@@ -41,7 +41,7 @@ tags:
 
 語音克隆快速發展亟需系統性梳理，本文為領域提供權威參考，同時指出檢測研究滯後於生成的風險。
 
-## 可能影響我
+## 可能影響
 
 - Concepts/Open_Source_ASR_TTS.md、Open_Source_Speech_Models.md 可引用分類體系
 - 需關注 Voice_Cloning_Risks 概念檔建立

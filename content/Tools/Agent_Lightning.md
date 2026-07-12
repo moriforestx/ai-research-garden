@@ -31,7 +31,7 @@ Microsoft 開源：使用強化學習訓練 Agent。超越提示工程，通過 
 
 Agent 行為從「提示工程固化」轉向「策略學習持續改進」。Microsoft 開源信號：RL for Agents 進入實用化階段。
 
-## 可能影響我
+## 可能影響
 
 - Agent 訓練管線建設參考
 - ReAct_Loop.md 需增加 RL 優化章節

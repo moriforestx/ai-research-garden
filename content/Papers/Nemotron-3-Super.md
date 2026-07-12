@@ -36,7 +36,7 @@ NVIDIA 發布 Nemotron 3 Super，120B 參數開源 Mixture-of-Experts 模型，�
 
 混合架構解決長文本推理記憶體瓶頸，MoE 提升參數效率，為本地部署大模型提供可行路徑。Agent 任務專項優化填補開源模型在工具使用、規劃能力上的缺口。
 
-## 可能影響我
+## 可能影響
 
 AI Agent Lab 本地模型部署可評估 Nemotron 3 Super 作為推理引擎；混合架構設計原則可應用於自訂模型訓練；Agentic Reasoning 基準提供評測標準。
 

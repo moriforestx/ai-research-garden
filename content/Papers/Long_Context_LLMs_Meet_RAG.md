@@ -40,7 +40,7 @@ tags:
 
 長上下文 LLM (2M+ tokens) 與 RAG 關係的實證研究，打破「長上下文取代 RAG」迷思，給出生產級 RAG 系統具體優化路徑。
 
-## 可能影響我
+## 可能影響
 
 - Concepts/RAG_Retrieval_Augmented_Generation.md 需整合三種魯棒性方案
 - Concepts/Long_Context_LLM.md、Long_Context_Window.md、RAG_vs_Long_Context.md 需更新

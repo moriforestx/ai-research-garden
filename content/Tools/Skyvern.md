@@ -32,7 +32,7 @@ tags:
 
 Web Agent 落地關鍵工具。傳統 RPA 易斷、維護成本高；Skyvern 以視覺+推理替代選擇器，魯棒性質變。OpenClaw 可集成作為瀏覽器技能。
 
-## 可能影響我
+## 可能影響
 
 - OpenClaw 技能擴展：新增 browser_automation skill
 - 自動化測試、數據收集管線

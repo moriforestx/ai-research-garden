@@ -32,7 +32,7 @@ tags:
 
 本地推理生態基石。幾乎所有本地 LLM 工具 (LocalAI, Ollama, Kobold.cpp, Jan, LM Studio) 底層依賴 llama.cpp。
 
-## 可能影響我
+## 可能影響
 
 - OpenClaw 節點推理後端首選
 - 量化策略選型指導

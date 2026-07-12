@@ -40,7 +40,7 @@ Step-Audio 2 是端到端多模態大語言模型，整合潛在音頻編碼器�
 
 音頻 LLM 領域里程碑：從級聯系統 (ASR+LLM+TTS) 邁向真正端到端，保留韻律、情感、說話人身分等聲學細節。推理導向 RL 提升對話質量。開源釋出推動社區發展。
 
-## 可能影響我
+## 可能影響
 
 - Audio AI Hub 專案可評估整合 Step-Audio 2 作為核心模型
 - Concepts/Open_Source_ASR.md、Open_Source_ASR_TTS.md、Open_Source_Speech_Models.md 需更新

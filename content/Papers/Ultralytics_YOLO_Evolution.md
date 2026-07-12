@@ -38,7 +38,7 @@ tags:
 
 YOLO 系列是實時檢測事實標準。YOLO26 代表架構成熟度新高度，單模型多任務對工程部署價值極大。Ultralytics 生態 (Python API、ONNX/TensorRT 導出、活躍社群) 使其落地門檻最低。
 
-## 可能影響我
+## 可能影響
 
 - Tools/YOLOv11.md 需更新為 YOLO26 內容
 - Projects 中 Computer Vision 管線可評估遷移至 YOLO26 統一架構

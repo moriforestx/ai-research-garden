@@ -41,7 +41,7 @@ tags:
 
 AI Agent 領域首個系統性架構綜述，確立術語與分類標準，指導後續研究與工程實踐。
 
-## 可能影響我
+## 可能影響
 
 - Concepts/AI_Agent_Architecture.md、Multi_Agent_Systems.md、ReAct_Loop.md 需對齊更新
 - OpenClaw 技能系統、工具路由架構可參考 MRKL 風格模塊化設計
