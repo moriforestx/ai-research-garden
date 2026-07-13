@@ -14,11 +14,13 @@ tags:
 
 - [[Daily/|每日研究]]
 - [[Papers/|論文筆記]]
+- [[Reports/|研究報告]]
 - [[Tools/|工具筆記]]
 - [[Projects/|專案筆記]]
+- [[TechnicalDevelopments/|技術動態]]
+- [[Applications/|應用案例]]
 - [[Concepts/|概念筆記]]
 - [[People/|人物筆記]]
-
 ## 最新研究
 
 - [[Daily/2026-07-13]]
