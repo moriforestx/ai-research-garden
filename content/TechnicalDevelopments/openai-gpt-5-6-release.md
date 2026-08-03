@@ -1,18 +1,18 @@
 ---
-title: "GPT-5.6：OpenAI 推出全新旗艦模型系列 Sol、Terra、Luna"
+title: "OpenAI 發布 GPT-5.6 模型系列：Sol、Terra、Luna 三大變體"
 type: technical-development
 research_topic: "AI 綜合動態 / General AI Updates"
 published_date: "2026-07-09"
 organization: "OpenAI"
 source_url: "https://openai.com/index/gpt-5-6"
-date_collected: "2026-07-25"
-date_updated: "2026-07-25"
+date_collected: "2026-08-04"
+date_updated: "2026-08-04"
 tags:
   - ai
   - technical-development
 ---
 
-# GPT-5.6：OpenAI 推出全新旗艦模型系列 Sol、Terra、Luna
+# OpenAI 發布 GPT-5.6 模型系列：Sol、Terra、Luna 三大變體
 
 ## 基本資訊
 
@@ -22,21 +22,21 @@ tags:
 
 ## 概要
 
-OpenAI 於 2026 年 7 月 9 日正式發布 GPT-5.6 模型系列，包含旗艦級 Sol、平衡型 Terra、高性價比 Luna 三個層級。GPT-5.6 Sol 在 Agents' Last Exam 達 53.6 分，超越 Claude Fable 5 達 13.1 分；於 Artificial Analysis Coding Agent Index 達 80 分創新高；BrowseComp 達 92.2%、OSWorld 2.0 達 62.6%。引入 max 與 ultra 推理模式，支援多代理並行協作。GPT-5.6 具備程式化工具呼叫、更強的設計判斷、電腦操作能力與科研加速能力。
+OpenAI 於 2026 年 7 月 9 日正式發布 GPT-5.6 模型系列，包含三個變體：Sol（旗艦級推理與編碼）、Terra（平衡效能與成本）、Luna（極速經濟型）。GPT-5.6 Sol 在編碼、科學推理、網路安全基準測試上建立新高水準，輸出 token 效率較競品高約 80%。同日同步推出 GPT-Live 新一代語音模型，支援全雙工即時對話。
 
 ## 核心價值
 
-GPT-5.6 Sol 以更少 token、更低成本、更短時間在多項基準測試超越競品，確立新一代旗艦模型標竿。
+確立新一代 frontier 模型在推理、編碼、科學任務上的 SOTA 表現，並大幅降低推理成本，推動企業級與開發者大規模採用。
 
 ## 應用情境與實務影響
 
-開發者可透過 API 使用三款模型，ChatGPT Plus/Pro/Enterprise 用戶即日起可用；Programmatic Tool Calling 與 Multi-agent beta 降低工具鏈複雜度、加速複雜任務。
+開發者可透過 API 存取三種不同成本效能比的模型；企業獲得更高性價比的長時程代理工作負載選擇；語音交互進入全雙工時代，大幅改善人機自然對話體驗。
 
 ## 補充細節
 
-定價：Sol $5/$30、Terra $2.5/$15、Luna $1/$6（輸入/輸出每 1M token）。引入 30 分鐘最小快取壽命與明確快取中斷點。安全性採分層防護，含推理監控、快速修補流程，Sol 網安攔截量較前代增 10 倍。
+GPT-5.6 Sol 於 Terminal-Bench 2.1、ExploitBench 等高難度基準建立新紀錄；Terra 在 GPT-5.5 級效能下成本降半；Luna 為最快最廉價變體。發布初期受美國政府安全審查限制僅向少數合作夥伴開放，7/9 解禁全面公開。GPT-Live-1 與 Live-1 mini 同步上線 ChatGPT Voice。
 
 ## 維護紀錄
 
-- 收錄日期：2026-07-25
-- 最後更新：2026-07-25
+- 收錄日期：2026-08-04
+- 最後更新：2026-08-04
