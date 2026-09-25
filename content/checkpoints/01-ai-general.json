@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "topic": "ai-general",
+  "recorded_at": "2026-09-26T06:31:02+08:00",
+  "digest": "64a79bb682720d6401ddf083d60256a99bffdf2a139ee6c9b3d14d82bd3e2189",
+  "candidate": {
+    "result": "accepted",
+    "request_count": 1,
+    "title": "Designing Proactive Thought Partners for Writing",
+    "published_date": "2026-09-01",
+    "source_url": "https://deepmind.google/research/publications/265605",
+    "content_type": "paper",
+    "score": 4.3,
+    "summary": "Google DeepMind 研究團隊提出「主動思考夥伴」設計空間，探討 AI 代理人如何在寫作過程中主動提供高層級認知支援，而非單純的自動完成。研究透過技術探針讓 16 位參與者使用一週，發現使用者會預先規劃主動支援的角色與時機，並將建議用於構思與自我監控，重視輕量視覺呈現與非指令性修辭。",
+    "key_value": "建立主動式 AI 寫作助手的設計框架，證明可配置的主動代理人優於被動自動完成，為下一代 AI 協作工具提供實證依據。",
+    "practical_impact": "適用於文書工具、程式編輯器、內容創作平台等需深度認知輔助的場景，指導如何設計不干擾且具語境感知的主動介入機制。",
+    "details": "arXiv:2609.01588，作者：Chao Zhang、Abe Davis、Chih-Wei Chen、Chin-Chia Hsu。研究部署技術探針一週，16 位參與者自訂夥伴角色與主動程度，系統監控編輯器並在適當時機觸發建議。關鍵發現：(1) 配置即前瞻規劃；(2) 有效主動性依賴語境對齊、尊重當下意圖、保留使用者控制權；(3) 視覺呈現與修辭框架決定侵擾感。",
+    "organization": "Google DeepMind",
+    "slug": "designing-proactive-thought-partners-writing"
+  }
+}

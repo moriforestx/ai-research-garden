@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "topic": "computer-vision",
+  "recorded_at": "2026-09-26T06:31:29+08:00",
+  "digest": "8fd0a24d0463079cb4f5f2affabc215d035c01838ead6c2e9fa62a784b1bc080",
+  "candidate": {
+    "result": "accepted",
+    "request_count": 1,
+    "title": "Visual General Intelligence: A White Paper",
+    "published_date": "2026-08-26",
+    "source_url": "https://arxiv.org/abs/2608.25924",
+    "content_type": "report",
+    "score": 4.5,
+    "summary": "由 AIST、Oxford、DeepMind、CMU、Stanford、Princeton 等多所頂尖機構聯合撰寫的白皮書，重新從視覺中心視角審視智能，提出視覺通用智能（VGI）作為通往 AGI 的關鍵路徑。論文匯總了視覺智能的多元定義、發展階段、評估基準與開放問題，呼籲建立以視覺經驗為基礎的智能範式。",
+    "key_value": "確立 VGI 為 AGI 必經關鍵，提供跨機構共識的研究議程與評估框架，將視覺從感知模組提升為智能核心。",
+    "practical_impact": "指導多模態模型架構設計、視覺基準建立、具身智能與機器人視覺系統開發，影響學術與產業的長期技術路線圖。",
+    "details": "arXiv:2608.25924v1 [cs.CV]，提交日期 2026-08-26。作者群涵蓋 AIST、Oxford、CADDi、OpenAI、Cambridge、Nuremberg Tech、Tsukuba、DeepMind、CMU、NYU、Imperial、Harvard、Stanford、Princeton 等。內容涵蓋：VGI 定義與範疇、視覺智能發展四階段、核心能力維度（感知、推理、生成、行動）、評估基準設計原則、資料與計算需求、安全與對齊考量、開放研究問題 20+ 項。",
+    "organization": "AIST, Oxford, DeepMind, CMU, Stanford, Princeton 等多機構聯合",
+    "slug": "visual-general-intelligence-white-paper"
+  }
+}

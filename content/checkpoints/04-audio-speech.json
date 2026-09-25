@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "topic": "audio-speech",
+  "recorded_at": "2026-09-26T06:33:18+08:00",
+  "digest": "66ff4d36e79b55133cc607249e9501f65bd6ce8373ac59375028c9982b950bd1",
+  "candidate": {
+    "result": "accepted",
+    "request_count": 1,
+    "title": "Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis",
+    "published_date": "2026-09-06",
+    "source_url": "https://ai.meta.com/research/publications/alignment-free-text-audiobox-for-voice-dubbing-and-full-duplex-dialogue-synthesis",
+    "content_type": "paper",
+    "score": 4.4,
+    "summary": "Meta FAIR 推出 Alignment-Free Text-Audiobox (Text-AB)，統一語音配音與全雙工對話合成。基於 Diffusion Transformer 與 flow-matching，採用 DAC-VAE 潛在擴散框架（48kHz→25Hz，壓縮率 10×），移除強制對齊與時長預測，改用跨注意力學習文本-語音對齊；3B 參數模型在 48 萬小時單語語音預訓練後，於跨語言配音、情感對話、全雙工合成三任務微調，達到 SOTA 表現。",
+    "key_value": "首個免對齊、統一配音與全雙工對話的潛在擴散語音模型，大幅簡化流程並提升壓縮品質，為即時語音互動奠基。",
+    "practical_impact": "適用於影視配音本地化、即時語音翻譯、AI 陪伴對話、無障礙語音介面等需高品質、低延遲、多語言、雙向互動的語音應用。",
+    "details": "arXiv:2609.03992v1，Meta AI 發布日期 2026-09-06。作者：Sanyuan Chen、Min-Jae Hwang、Sho Inoue、Anna Sun、Bokai Yu、David Kant、Dongmin Hyun、Dorian Desblancs、Gregory Antonovsky、Oleg Repin、Zehai Tu、Juan Pino、Wei-Ning Hsu。核心創新：(1) DAC-VAE 潛在空間 10× 壓縮且重構更優；(2) 免對齊跨注意力機制，端到端學習文本-語音對齊；(3) 3B 參數、480k 小時預訓練 + 三任務 SFT。實驗涵蓋零樣本跨語言配音、情感對話 MOS、全雙工重疊語音合成，均超越 Audiobox 基線。",
+    "organization": "Meta AI (FAIR)",
+    "slug": "alignment-free-text-audiobox-voice-dubbing-full-duplex"
+  }
+}
