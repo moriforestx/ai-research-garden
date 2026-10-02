@@ -1,42 +1,42 @@
 ---
-title: "Anthropic 發布 Claude Opus 4.7"
+title: "Anthropic 發布 Claude Opus 4.7：混合推理模型大幅強化編程與代理能力"
 type: tool
 research_topic: "大型語言模型與自然語言處理 / LLM & NLP"
 published_date: "2026-04-16"
 organization: "Anthropic"
-source_url: "https://docs.anthropic.com/en/release-notes/claude-apps"
-date_collected: "2026-08-14"
-date_updated: "2026-08-14"
+source_url: "https://www.anthropic.com/news/claude-opus-4-7"
+date_collected: "2026-10-03"
+date_updated: "2026-10-03"
 tags:
   - ai
   - tool
 ---
 
-# Anthropic 發布 Claude Opus 4.7
+# Anthropic 發布 Claude Opus 4.7：混合推理模型大幅強化編程與代理能力
 
 ## 基本資訊
 
 - 發布日期：2026-04-16
 - 研究主題：大型語言模型與自然語言處理 / LLM & NLP
-- 主要來源：https://docs.anthropic.com/en/release-notes/claude-apps
+- 主要來源：https://www.anthropic.com/news/claude-opus-4-7
 
 ## 概要
 
-Anthropic 於 2026-04-16 正式釋出 Claude Opus 4.7，為混合推理大型語言模型。在軟體工程與複雜長程編碼任務顯著提升，視覺能力增強可解析更高解析度影像。同步推出 Claude Design（Anthropic Labs 產品）支援視覺化協作輸出。SWE-Bench Pro 達 64.3%，為當時公開最強程式碼模型。
+Anthropic 於 2026 年 4 月 16 日正式發布 Claude Opus 4.7，為混合推理大型語言模型，在進階軟體工程、編程基準（SWE-bench、Terminal-bench）與複雜多步驟任務上顯著超越 Opus 4.6。具備 1M token 上下文窗口，透過 Claude.ai、Claude Code、Anthropic API、Amazon Bedrock 與 Google Vertex AI 正式開放存取。系統卡顯示誠實率與 Opus 4.6 持平，低於僅限量發布的 Mythos Preview。
 
 ## 核心價值
 
-確立 Anthropic 在程式碼生成與長程推理任務的領先地位，提供企業級 API、Claude Code、Bedrock、Vertex AI 多管道存取，系統卡完整揭露能力與安全評估。
+確立混合推理架構於編程與代理任務的優勢，為 Opus 5 鋪路
 
 ## 應用情境與實務影響
 
-開發者可直接用於複雜多檔案重構、自動化除錯、長期代理工作流；企業獲得符合合規的高性能模型選項；研究社群獲得詳細系統卡作為對齊與安全基準。
+企業級代理開發與複雜程式碼庫維護的首選模型；1M 上下文支援超大型專案單次推理
 
 ## 補充細節
 
-官方發布備註：https://docs.anthropic.com/en/release-notes/claude-apps（2026-04-16）。系統卡：https://www.anthropic.com/claude-opus-4-7-system-card。透明度中心：https://www.anthropic.com/transparency。模型頁面：https://www.anthropic.com/claude/opus。後續 2026-05-28 釋出 Opus 4.8，顯示快速迭代節奏。
+Opus 4.7 為 Opus 4.6 後續迭代，非全新架構。同期發布 Mythos Preview 僅限合作夥伴存取。後續 Opus 4.8 於 5 月 28 日發布、Opus 5 於 7 月 24 日發布、Opus 5.5 於 9 月 22 日發布。系統卡 PDF：https://www-cdn.anthropic.com/037f06850df7fbe871e206dad004c3db5fd50340/Claude%20Opus%204.7%20System%20Card.pdf
 
 ## 維護紀錄
 
-- 收錄日期：2026-08-14
-- 最後更新：2026-08-14
+- 收錄日期：2026-10-03
+- 最後更新：2026-10-03
